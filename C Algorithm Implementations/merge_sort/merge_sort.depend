@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719992259 source:/home/yahya/Desktop/C/merge_sort/main.c
+	<stdio.h>
+	<stdlib.h>
+

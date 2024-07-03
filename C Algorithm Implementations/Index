@@ -1,0 +1,6 @@
+[index number] || [name of algorithm] || additional description
+
+[0] [merge_sort] || In this application we getting some input array A from user via 
+memory allocation method. After that we getting input for between array. The between point assess the where array A divided into two points. After this we use bubble sort for each
+partition sorted. Then use the merge sort. And print the last value of A array. After this
+it's important we must use the free() method for A. 
