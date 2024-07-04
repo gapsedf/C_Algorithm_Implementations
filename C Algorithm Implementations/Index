@@ -1,6 +1,12 @@
 [index number] || [name of algorithm] || additional description
 
 [0] [merge_sort] || In this application we getting some input array A from user via 
-memory allocation method. After that we getting input for between array. The between point assess the where array A divided into two points. After this we use bubble sort for each
-partition sorted. Then use the merge sort. And print the last value of A array. After this
-it's important we must use the free() method for A. 
+memory allocation method. After that we getting input for between array. The between point assess the where array A divided into two points. 
+After this we use bubble sort for each partition sorted. Then use the merge sort. And print the last value of A array. After this
+it's important we must use the free() method for A. Carefully use the pointers to not be lost in call-back references. 
+
+[1] [merge_sort_recursively] || In this application we defined an array A in stack field of main method. 
+Then use two different functions. One of them is merge and other is merge_sort. In stack field of main we
+call the merge-sort according to our array and first and last index to be sorted. After that it call itself
+to check recursively sort two different functions. Which is recursive function by definition. Lastly use the
+merge method which is detailed descripted in index number [0]. 
