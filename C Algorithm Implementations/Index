@@ -13,3 +13,6 @@ merge method which is detailed descripted in index number [0].
 
 [2] [hex_to_decimal] || In this application we perform the task of converting a known hex number to decimal using 
 Euclidian division algorithm. Which is significant real world applications like memory addressing models or base systems or cryptography.
+
+[3] [dec_to_hex] || In this application we perform the task of converting  known decimal number to hexadecimal using
+Euclidian division algorithm. Like previous algorithm index number [2].
