@@ -10,3 +10,6 @@ Then use two different functions. One of them is merge and other is merge_sort. 
 call the merge-sort according to our array and first and last index to be sorted. After that it call itself
 to check recursively sort two different functions. Which is recursive function by definition. Lastly use the
 merge method which is detailed descripted in index number [0]. 
+
+[2] [hex_to_decimal] || In this application we perform the task of converting a known hex number to decimal using 
+Euclidian division algorithm. Which is significant real world applications like memory addressing models or base systems or cryptography.
